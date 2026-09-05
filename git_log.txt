@@ -1,0 +1,45 @@
+commit 14a965c942b1acb99d7d879594a50e6d5bdc0f23
+Merge: ead70fc c67d587
+Author: KyuHo <kyuholee4@gmail.com>
+Date:   Sat Sep 5 15:34:18 2026 -0700
+
+    Merge main and index-fix branch
+
+commit c67d587feb5dd0ae89f78fd7e9bfd08814b352ae
+Author: KyuHo <kyuholee4@gmail.com>
+Date:   Sat Sep 5 15:32:10 2026 -0700
+
+    Add favorite game
+
+commit ead70fce6b31f0d4270af65da9feab0914f4611a
+Author: KyuHo <kyuholee4@gmail.com>
+Date:   Sat Sep 5 15:30:34 2026 -0700
+
+    Add favorite food
+
+commit ede534517cef2fbf9c97d15295d713eb2de5d5cf
+Author: KyuHo <kyuholee4@gmail.com>
+Date:   Sat Sep 5 15:24:54 2026 -0700
+
+    Commit my README
+
+commit 60d1438cb6f346fd1e59b1ba7144a5afb2d567d4
+Merge: 1d2bfc0 a5cb382
+Author: KHL2679 <126346776+KHL2679@users.noreply.github.com>
+Date:   Sat Sep 5 15:23:06 2026 -0700
+
+    Merge pull request #1 from KHL2679/info-fill
+    
+    Added changes to my name
+
+commit a5cb3821a5b64a7a984cbc8b8ff9d7ff999baaf2
+Author: KyuHo <kyuholee4@gmail.com>
+Date:   Sat Sep 5 15:06:19 2026 -0700
+
+    Added changes to my name
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
